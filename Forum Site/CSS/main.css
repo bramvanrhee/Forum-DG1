@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-image: url(background.jpg);
+}
+
+.header {
+  background: rgba(62, 94, 207, 0.80);
+  height: 100px;
+
+}
+.header2 {
+  background: rgba(255, 255, 255, 0.80);
+  height: 115px;
+}
+
+.footer {
+  background: rgba(60, 167, 219, 0.80);
+  height: 100px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
