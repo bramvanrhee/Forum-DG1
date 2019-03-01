@@ -3,20 +3,59 @@ body {
   background-image: url(background.jpg);
 }
 
+
+
 .header {
   background: rgba(62, 94, 207, 0.80);
   height: 100px;
 
 }
+
 .header2 {
   background: rgba(255, 255, 255, 0.80);
   height: 115px;
 }
 
+.navbar {
+  margin-top: -10px;
+  margin-left: 300px;
+  position: absolute;
+  margin-top: -10px;
+}
+
+.navbar a {
+    display: inline;
+    padding: 10px 40px;
+    background-color: #33BBF5;
+    color: white;
+    font-weight: bold;
+    margin: 25px;
+    text-decoration: none;
+}
+
+.header-text {
+
+}
+
+.topicblock {
+  background: #3067E2;
+  height: 80px;
+  width:1450px;
+  margin-top: 25px;
+  margin-bottom: 40px;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+
+}
+
 .footer {
   background: rgba(60, 167, 219, 0.80);
   height: 100px;
-  position: fixed;
+  position: relative;
   bottom: 0;
   width: 100%;
 }

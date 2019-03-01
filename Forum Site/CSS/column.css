@@ -1,0 +1,11 @@
+.column{
+  column-count: 1;
+  column-width: 100%;
+  background: #FFFDFD;
+  height: 150px;
+  width: 1450px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
